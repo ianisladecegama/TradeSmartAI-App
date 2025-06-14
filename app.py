@@ -6,7 +6,7 @@ st.set_page_config(page_title="TradeSmartAI", page_icon="📈")
 st.title("📊 TradeSmartAI – Asistente Educativo de Inversión")
 st.markdown("""
 Escribe tu pregunta sobre inversiones:
-- ¿Qué acción es óptima comprar hoy para venderla en 1 mes y sacar el máximo beneficio?
+- ¿Qué acción es óptima comprar hoy para venderla dentro de 1 mes y sacar el máximo beneficio?
 - ¿Cuándo vendo mis acciones de Tesla?
 """)
 
