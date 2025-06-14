@@ -11,7 +11,7 @@ os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 client = OpenAI()
 
 # Entrada de usuario
-pregunta = st.text_input("¿Qué acción quieres consultar?")
+pregunta = st.text_input("¿Con qué puedo ayudarte?")
 
 if st.button("Consultar"):
     if pregunta:
